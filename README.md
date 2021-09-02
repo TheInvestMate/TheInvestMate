@@ -14,4 +14,4 @@ Your overall portfolio performance is tracked over time and compared to the majo
 Stocks, ETFs and BTC, ETH, LTC, BCH Cryptos data (except BTC, ETH, LTC, BCH 52w Low and 52w High) is sourced from Google Finance with a delay up to 20 minutes and from Yahoo Finance as a backup.
 All data for the others Crypto Currencies (including BTC, ETH, LTC, BCH 52w Low and 52w High) is get from Yahoo Finance. Data is updated every time The InvestMate is opened and every time "Refresh Cryptos" icon is clicked.
 
-<a href="https://docs.google.com/spreadsheets/d/1TUKWUV_XSvYJByWvtaeasPrQHslbapzwK_YEGtkOAro/edit#gid=434248103">Full guide is available here</a>
+<a href="https://docs.google.com/spreadsheets/d/1TUKWUV_XSvYJByWvtaeasPrQHslbapzwK_YEGtkOAro/edit#gid=434248103">Full guide and link to the latest version is available here</a>
